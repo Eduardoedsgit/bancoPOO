@@ -36,7 +36,7 @@ class Status {
         System.out.println("Idade: " + this.idade);
         // Incremnenta 22 no saldo
         this.saldo += 22;
-        System.out.print("Saldo do  usuário: "+ this.saldo);
+        System.out.print("Saldo em conta: " + this.saldo);
     }
 }
 
